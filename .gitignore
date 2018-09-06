@@ -30,3 +30,9 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+\.idea/caches/
+
+\.idea/codeStyles/
+
+\.idea/
